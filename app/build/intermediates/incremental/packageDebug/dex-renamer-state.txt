@@ -1,0 +1,4 @@
+#Sat Apr 15 09:02:07 IST 2017
+base.0=/Users/pranav97/Downloads/Cop315/LED/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main
+renamed.0=classes.dex
+file.0=/Users/pranav97/Downloads/Cop315/LED/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main/classes.dex
